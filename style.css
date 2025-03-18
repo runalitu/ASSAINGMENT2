@@ -1,0 +1,50 @@
+.img1{
+    width: 573px;
+    height: 338px;
+}
+.img2{
+    width: 573px;
+    height: 338px;
+    
+}
+.img3{
+    width: 1130px;
+    height: 450px;
+    
+    border-radius: 8px;
+}
+
+
+.border{
+    border: 1px neutral-100;
+    width: 573px;
+    height: 218px;
+    border: rounded-lg;
+    
+}
+.accodion{
+    width: 1170px;
+    height: 450px;
+    border: 1px solid #eeeeee;
+    
+    
+    
+}
+.mas{
+    width: 672px;
+    height: 390px;
+}
+.barano{
+    width: 324px;
+    height: 64px;
+}
+.social{
+    width: 1170px;
+    height: 150px;
+    margin-left: 135px;
+    margin-right: 135px;
+    border-radius: 8px;
+}
+.touch{
+    height: 454px;
+}
